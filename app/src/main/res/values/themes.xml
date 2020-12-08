@@ -13,4 +13,18 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="RatingBar" parent="AppTheme">
+        <item name="colorControlActivated">@android:color/holo_red_dark</item>
+        <item name="colorControlNormal">@android:color/black</item>
+    </style>
+
+    <style name="Theme.AndriodFundamentals2020.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.AndriodFundamentals2020.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.AndriodFundamentals2020.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

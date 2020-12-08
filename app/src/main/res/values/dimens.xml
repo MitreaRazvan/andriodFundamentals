@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="view_first_row_padding">40dp</dimen>
+    <dimen name="view_button">40dp</dimen>
+    <dimen name="switch_control">20dp</dimen>
+    <dimen name="size_textPass">20dp</dimen>
+</resources>
