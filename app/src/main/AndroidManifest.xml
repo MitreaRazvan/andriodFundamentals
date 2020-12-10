@@ -9,10 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndriodFundamentals2020">
+        <activity android:name=".week2.scrollActivity"></activity>
+        <activity android:name=".MainActivity3" />
         <activity
             android:name=".week2.learning"
             android:label="@string/title_activity_learning"
-            android:theme="@style/Theme.AndriodFundamentals2020.NoActionBar"></activity>
+            android:theme="@style/Theme.AndriodFundamentals2020.NoActionBar" />
         <activity
             android:name=".week2.activity_week2"
             android:label="@string/title_activity_week2"
